@@ -1,4 +1,4 @@
-# [Warehouse And Shelf Management At Supermarket](https://github.com/trannhatnguyen2/BI_BoKho)
+# [Warehouse And Shelf Management At Supermarket](https://github.com/thientructhai/BA_StockManagement)
 
 ## Member of group
 
@@ -74,14 +74,14 @@ To implement the process, some actors below are required:
 <img src="./img/RobotStore.png" width=60% height=60%>
 
 <p align="center">
-    Robot At Store
+    Robot at Store
 </p>
 
 <p align="center">
 <img src="./img/RobotWarehouse.png" width=60% height=60%>
 
 <p align="center">
-    Robot At Warehouse
+    Robot at Warehouse
 </p>
 
 <p align="center">
@@ -108,14 +108,14 @@ To implement the process, some actors below are required:
 <img src="./img/SequenceDiagram_Function_1.png" width=80% height=80%>
 
 <p align="center">
-    Warehouse stock management
+    Warehouse Stock management
 </p>
 
 <p align="center">
 <img src="./img/SequenceDiagram_Function_3.png" width=80% height=80%>
 
 <p align="center">
-    Shelf product management
+    Shelf Product management
 </p>
 
 # 🧱 Mockup
@@ -124,7 +124,7 @@ To implement the process, some actors below are required:
 <img src="./img/SequenceDiagram_Function_3.png" width=80% height=80%>
 
 <p align="center">
-    Shelf product management
+    Shelf Product management
 </p>
 
 ---
