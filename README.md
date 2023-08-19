@@ -121,7 +121,7 @@ To implement the process, some actors below are required:
 # 🧱 Mockup
 
 <p align="center">
-<img src="./img/SequenceDiagram_Function_3.png" width=80% height=80%>
+<img src="./img/Mockup/Mockup.png" width=80% height=80%>
 
 <p align="center">
     Shelf Product management
